@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1623600748 source:c:\users\Витал\documents\zoom\cplus dz\main.cpp
+	<iostream>
+	<cstring>
+	<fstream>
+
